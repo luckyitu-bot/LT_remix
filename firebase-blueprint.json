@@ -1,0 +1,14 @@
+{
+  "entities": {
+    "blogPost": {
+      "title": "Blog Post",
+      "description": "An article for the blog.",
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "The title of the blog post."
+        },
+        "slug": {
+          "type": "string",
+          "description": "The URL-friendly slug
